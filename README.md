@@ -6,4 +6,5 @@
 
 组织博客：
 -   专注于勒索软件识别以及解密 https://id-ransomware.blogspot.com/
--   Threat Recon Team https://threatrecon.nshc.net/
+-   Threat Recon Team   https://threatrecon.nshc.net/
+-   数字取证以及应急响应    https://www.dfir.training/
