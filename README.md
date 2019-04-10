@@ -2,8 +2,8 @@
 收集的恶意软件相关的博客地址
 
 个人博客：
--   我的个人博客，CTF，PWN, 恶意代码，安全开发 https://binlmmhc.me/
--   一个喜欢研究恶意样本和CTF的二进制man https://secrary.com/
+-   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 
+-   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
 
 组织博客：
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
