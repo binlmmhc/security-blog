@@ -4,6 +4,7 @@
 个人博客：
 -   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 
 -   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
+-   https://medium.com/@underthebreach  溯源高手
 
 组织博客：
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
@@ -13,3 +14,4 @@
 -   https://bazaar.abuse.ch/    开放的恶意软件库，还可以，都有标签，下载无限制，更新勤，主要以RAT样本居多。
 -   https://blog.intel471.com/  一个安全研究组织，在黑产以及勒索这块有比较好的研究
 -   https://blog.talosintelligence.com/ 思科安全团队，研究非常前沿
+-   https://malpedia.caad.fkie.fraunhofer.de/ 安全事件追踪搜索，追踪恶意软件家族方面挺不错的
