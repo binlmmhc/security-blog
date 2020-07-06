@@ -11,3 +11,5 @@
 -   https://www.dfir.training/  数字取证以及应急响应
 -   https://urlhaus.abuse.ch/   一个恶意URL威胁情报网站-非常不错，对每一个URL都有标签，和对主机的存活检测
 -   https://bazaar.abuse.ch/    开放的恶意软件库，还可以，都有标签，下载无限制，更新勤，主要以RAT样本居多。
+-   https://blog.intel471.com/  一个安全研究组织，在黑产以及勒索这块有比较好的研究
+-   https://blog.talosintelligence.com/ 思科安全团队，研究非常前沿
