@@ -2,7 +2,7 @@
 收集的恶意软件相关的博客地址
 
 个人博客：
--   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 
+-   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 ，目前已经放弃个人网站了。
 -   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
 -   https://medium.com/@underthebreach  溯源高手
 
@@ -15,5 +15,7 @@
 -   https://feodotracker.abuse.ch/  bot威胁情报网站
 -   https://blog.intel471.com/  一个安全研究组织，在黑产以及勒索这块有比较好的研究
 -   https://blog.talosintelligence.com/ 思科安全团队，研究非常前沿
--   https://malpedia.caad.fkie.fraunhofer.de/ 安全事件追踪搜索，追踪恶意软件家族方面挺不错的
+-   https://malpedia.caad.fkie.fraunhofer.de/ 安全事件追踪搜索，追踪恶意软件家族方面挺不错的，APT这块也不错
 -   https://blog.redteam.pl/  红队大佬，偶尔会对黑产组织进行反入侵，吊
+-   https://www.darktrace.com/en/blog/  会通过一些日志，流量等对黑客攻击进行记录与追踪，挺不错的。
+-   https://labs.sentinelone.com/ 通过日志流量等记录黑客的攻击过程，真的非常不错，黑客的执行命令等都非常清晰。
