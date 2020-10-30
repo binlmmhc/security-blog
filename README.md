@@ -26,3 +26,5 @@
 情报分析：
 -   社交分析
     -   https://thevisualized.com/twitter/timeline/twitter  追溯一个人的Twitter的整体行为
+    IOC情报:
+    -   http://tweettioc.com/   该系统会捕获Twitter的IOC，并且进行统计，还挺不错的
