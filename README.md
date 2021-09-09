@@ -15,6 +15,7 @@
 -   https://beta.virusbay.io/   一个似乎收费的的恶意软件收集网站，beta版本，目前上面样本并不是很多。
 -   https://vx-underground.org/samples.html 样本收集组织，样本质量不是很确定
 -   https://feodotracker.abuse.ch/  bot威胁情报网站
+-   https://maltiverse.com/collection 开源情报收集，用来查询情报挺不错的
 -   https://blog.intel471.com/  一个安全研究组织，在黑产以及勒索这块有比较好的研究
 -   https://blog.talosintelligence.com/ 思科安全团队，研究非常前沿
 -   https://malpedia.caad.fkie.fraunhofer.de/ 安全事件追踪搜索，追踪恶意软件家族方面挺不错的，APT这块也不错
