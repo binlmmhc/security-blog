@@ -32,3 +32,5 @@
     IOC情报:
     -   http://tweettioc.com/   该系统会捕获Twitter的IOC，并且进行统计，还挺不错的
     -   https://securitytrails.com/ SecurityTrails，提供当前和历史 DNS 信息、WHOIS 信息，子域名信息，不过要查看更多数据需要花钱
+-   威胁分析:
+    -   https://scamalytics.com/ip ip地址风险判断，不错
