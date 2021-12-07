@@ -6,6 +6,12 @@
 -   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
 -   https://medium.com/@underthebreach  溯源高手
 
+APT事件相关披露博客：
+-   国外博客
+    -   https://resources.lookout.com/resources/blog 一家在美国于2007成立的智能手机安全软件公司，主要关注移动安全，对南亚APT组织移动攻击有过研究与分析
+    国内博客或公众号
+    
+
 组织博客：
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
 -   https://threatrecon.nshc.net/   Threat Recon Team
