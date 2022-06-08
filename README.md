@@ -28,7 +28,8 @@ APT事件相关披露博客：
 -   https://labs.sentinelone.com/ 通过日志流量等记录黑客的攻击过程，真的非常不错，黑客的执行命令等都非常清晰。
 
 样本收集：
--   https://tria.ge/
+-   https://s.threatbook.cn/sample  国内情报厂商微步沙箱最新提交的1000样本
+-   https://tria.ge/            hatching初始安全团队使用的沙箱，样本报告，样本质量不确定
 -   https://urlhaus.abuse.ch/   一个恶意URL威胁情报网站-非常不错，对每一个URL都有标签，和对主机的存活检测
 -   https://bazaar.abuse.ch/    开放的恶意软件库，还可以，都有标签，下载无限制，更新勤，主要以RAT样本居多。
 -   https://beta.virusbay.io/   一个似乎收费的的恶意软件收集网站，beta版本，目前上面样本并不是很多。
