@@ -45,6 +45,8 @@ APT事件相关披露博客：
     -   https://scamalytics.com/ip ip地址风险判断，不错
     -   https://be.ipshu.com/   ip数据查询，还不错
     -   https://bgpview.io/ ip地址对应的ASN查询，good
+-   漏洞数据分析
+    -   https://www.cisa.gov/known-exploited-vulnerabilities-catalog 美国CISA的已知被利用漏洞目录，相关信息可用于猎捕漏洞
 -   网络网空测绘引擎
     -   https://fofa.info/  fofa中文网空测绘引擎
     -   https://www.zoomeye.org/    Zoomeye钟馗之眼网空测绘引擎
