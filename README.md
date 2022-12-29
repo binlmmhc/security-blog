@@ -18,6 +18,7 @@ APT事件相关披露博客：
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
 -   https://threatrecon.nshc.net/   Threat Recon Team
 -   https://www.dfir.training/  数字取证以及应急响应
+-   https://thedfirreport.com/services/ 应急响应取证分析报告，有三种订阅模式，安全人员可订阅，值得订阅。
 -   https://feodotracker.abuse.ch/  bot威胁情报网站
 -   https://maltiverse.com/collection 开源情报收集，用来查询情报挺不错的
 -   https://blog.intel471.com/  一个安全研究组织，在黑产以及勒索这块有比较好的研究
@@ -26,6 +27,9 @@ APT事件相关披露博客：
 -   https://blog.redteam.pl/  红队大佬，偶尔会对黑产组织进行反入侵，吊
 -   https://www.darktrace.com/en/blog/  会通过一些日志，流量等对黑客攻击进行记录与追踪，挺不错的。
 -   https://labs.sentinelone.com/ 通过日志流量等记录黑客的攻击过程，真的非常不错，黑客的执行命令等都非常清晰。
+
+安全研究：
+-   https://lolbas-project.github.io/   无文件技术、文件、脚本研究技术
 
 样本收集：
 -   https://s.threatbook.cn/sample  国内情报厂商微步沙箱最新提交的1000样本
