@@ -15,6 +15,8 @@ APT事件相关披露博客：
     
 
 组织博客：
+-   国家或安全组织网站
+    -   https://www.enisa.europa.eu/    欧盟网络安全局
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
 -   https://threatrecon.nshc.net/   Threat Recon Team
 -   https://www.dfir.training/  数字取证以及应急响应
