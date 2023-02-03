@@ -17,7 +17,7 @@ APT事件相关披露博客：
 组织博客：
 -   国家或安全组织网站
     -   https://www.enisa.europa.eu/    欧盟网络安全局
-    -   https://ccdcoe.org/library/publications/?sortby=year_down   北约合作网络防御卓越中心
+    -   https://ccdcoe.org/library/publications/?sortby=year_down   北约合作网络防御卓越中心，可以选择图书馆的报告进行观看，可了解西方对于网络安全发展的看法，提升视野
 -   https://id-ransomware.blogspot.com/ 专注于勒索软件识别以及解密
 -   https://threatrecon.nshc.net/   Threat Recon Team
 -   https://www.dfir.training/  数字取证以及应急响应
