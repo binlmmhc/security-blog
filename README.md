@@ -1,5 +1,5 @@
 # security-blog-with-malware
-收集的恶意软件相关的博客地址
+收集的情报、取证及恶意软件相关的博客地址
 
 个人博客：
 -   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 ，目前已经放弃个人网站了。
@@ -42,6 +42,9 @@ APT事件相关披露博客：
 -   https://bazaar.abuse.ch/    开放的恶意软件库，还可以，都有标签，下载无限制，更新勤，主要以RAT样本居多。
 -   https://beta.virusbay.io/   一个似乎收费的的恶意软件收集网站，beta版本，目前上面样本并不是很多。
 -   https://vx-underground.org/samples.html 样本收集组织，样本质量不是很确定
+
+取证分析：
+-   https://www.magnetforensics.com/    比较专业的数字取证公司，著名的dumpit工具所在公司被其于2022年收购。
 
 情报分析：
 -   社交分析
