@@ -1,4 +1,4 @@
-# security-blog-with-malware
+# security-blog
 收集的情报、取证及恶意软件相关的博客地址
 
 个人博客：
@@ -45,6 +45,7 @@ APT事件相关披露博客：
 
 取证分析：
 -   https://www.magnetforensics.com/    比较专业的数字取证公司，著名的dumpit工具所在公司被其于2022年收购。
+-   https://github.com/Velocidex/WinPmem    windows物理内存全量dump开源项目
 
 情报分析：
 -   社交分析
