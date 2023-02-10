@@ -32,6 +32,7 @@ APT事件相关披露博客：
 -   https://blog.redteam.pl/  红队大佬，偶尔会对黑产组织进行反入侵，吊
 -   https://www.darktrace.com/en/blog/  会通过一些日志，流量等对黑客攻击进行记录与追踪，挺不错的。
 -   https://labs.sentinelone.com/ 通过日志流量等记录黑客的攻击过程，真的非常不错，黑客的执行命令等都非常清晰。
+-   https://fireeye.market/apps 火眼APP目录，其中有许多非常好用的安全工具可用于取证分析、安全防御
 
 安全研究：
 -   https://lolbas-project.github.io/   无文件技术、文件、脚本研究技术
