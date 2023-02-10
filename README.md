@@ -5,6 +5,7 @@
 -   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 ，目前已经放弃个人网站了。
 -   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
 -   https://medium.com/@underthebreach  溯源高手
+-   https://r0fus0d.blog.ffffffff0x.com/    中文安全人员，发布的研究文章都挺不错
 
 APT事件相关披露博客：
 -   国外博客
