@@ -14,6 +14,7 @@ APT事件相关披露博客：
     -   https://www.vx-underground.org/apts.html vx-underground组织，收集的APT事件列表，如果做APT相关检测的可以看看，减少了收集时间
     -   https://redalert.nshc.net/  NSHC小组的redalert，周期性披露多种类团伙攻击近况
     国内博客或公众号
+    -   https://redqueen.tj-un.com/IntelHome.html   天际友盟，对于安全事件及情报的聚合做的挺好的
     
 
 组织博客：
