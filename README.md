@@ -39,6 +39,9 @@ APT事件相关披露博客：
 -   https://lolbas-project.github.io/   无文件技术、文件、脚本研究技术
 -   https://mez0.cc/    对于windows安全取证技术的研究，值得一看
 
+逆向学习：
+-   https://exploitreversing.com/   逆向联系集系列
+
 样本收集：
 -   https://s.threatbook.cn/sample  国内情报厂商微步沙箱最新提交的1000样本
 -   https://tria.ge/            hatching初始安全团队使用的沙箱，样本报告，样本质量不确定
