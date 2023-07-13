@@ -59,6 +59,8 @@ APT事件相关披露博客：
 
 
 情报分析：
+-   情报平台
+    -   https://opentip.kaspersky.com/ 卡巴斯基威胁情报查询平台，使用了下不咋滴
 -   社交分析
     -   https://thevisualized.com/twitter/timeline/twitter  追溯一个人的Twitter的整体行为
     -   https://intelx.io/tools?tab=telegram    可查询telegram中的内容
