@@ -85,3 +85,6 @@ APT事件相关披露博客：
 工具网站:
 -   IOC情报
     -   https://iocparser.com/  IOC解析网站，可用于提取网页IOC，提高些IOC提取效率
+
+yara规则仓库:
+-    https://github.com/bartblaze/Yara-rules
