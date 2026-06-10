@@ -2,13 +2,14 @@
 收集的情报、取证及恶意软件相关的博客地址
 
 个人博客：
--   https://binlmmhc.me/    我的个人博客，CTF，PWN, 恶意代码，安全开发 ，目前已经放弃个人网站了。
 -   https://secrary.com/    一个喜欢研究恶意样本和CTF的二进制man 
 -   https://medium.com/@underthebreach  溯源高手
 -   https://r0fus0d.blog.ffffffff0x.com/    中文安全人员，发布的研究文章都挺不错
 
-APT事件相关披露博客：
+APT/攻击事件相关披露博客：
 -   国外博客
+    - [推荐] 会发布很多的攻击事件溯源调查报告，并且提供详细的内部命令、攻击者行为信息等。 https://thedfirreport.com/ 
+    - [推荐] Google威胁情报博客，https://cloud.google.com/blog/topics/threat-intelligence/
     -   https://www.enigmasoftware.com/threat-database/advanced-persistent-threat-apt/  反病毒安全公司，收集的APT攻击事件，对应的事件信息并不是很详细
     -   https://resources.lookout.com/resources/blog 一家在美国于2007成立的智能手机安全软件公司，主要关注移动安全，对南亚APT组织移动攻击有过研究与分析
     -   https://www.vx-underground.org/apts.html vx-underground组织，收集的APT事件列表，如果做APT相关检测的可以看看，减少了收集时间
